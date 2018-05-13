@@ -11,7 +11,7 @@ Simple json API made whith Codeigniter
 
 ## Instalation 
 1. Import contacts table (contacts-table.sql) to your database
-2. Drop files inside Codeigniter aplication folder
+2. Drop files inside Codeigniter application folder
 3. Done!
 
 
