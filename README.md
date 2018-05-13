@@ -1,12 +1,12 @@
-# simple-codeigniter-api
+# Simple Codeigniter JSON API
 Simple json API made whith Codeigniter
 
 
-##Endpoints
-/contacts/ - List all contacts
-/contacts/get/{id} - Get contact
-/contacts/update/{id} - Update contact
-/contacts/update/{id} - Delete contact
+## Endpoints
++ /contacts/ - List all contacts
++ /contacts/get/{id} - Get contact
++ /contacts/update/{id} - Update contact
++ /contacts/update/{id} - Delete contact
 
 
 ## Instalation 
