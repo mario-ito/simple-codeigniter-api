@@ -5,8 +5,9 @@ Simple json API made whith Codeigniter
 ## Endpoints
 + /contacts/ - List all contacts
 + /contacts/get/{id} - Get contact
-+ /contacts/update/{id} - Update contact
-+ /contacts/update/{id} - Delete contact
++ /contacts/add/{id} - Add contact
++ /contacts/edit/{id} - Update contact
++ /contacts/delete/{id} - Delete contact
 
 
 ## Instalation 
